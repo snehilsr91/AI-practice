@@ -16,7 +16,7 @@ while x<4:
   x+=1
   y=0
 
-print("Before cleaning the room, I detect all of these radom dirts")
+print("Before cleaning the room, I detect all of these random dirts")
 display(room)
 x=0
 y=0
@@ -34,6 +34,6 @@ while x<4:
   y=0
   
 performance=(100-((z/16)*100))
-print("Room is clean now. Thanks for using the robot Vacum Cleaner!")
+print("Room is clean now. Thanks for using the robot Vacuum Cleaner!")
 display(room)
 print("Performance= ",performance,"%")
